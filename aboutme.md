@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to let me dog sit your dog
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Claire Goldberg. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love dogs
+- Dogs love me
 
 What else do you need?
 
